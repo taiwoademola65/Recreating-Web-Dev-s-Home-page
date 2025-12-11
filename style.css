@@ -2284,7 +2284,6 @@ select {
     text-decoration: none;
     border: none;
     background-color: #f5f6f7;
-
   }
 
 
@@ -2292,7 +2291,6 @@ select {
     background-color: #f5f6f7;
     padding: 80px 100px;
     line-height: 30px;
-
   }
 
   .name {
@@ -2314,5 +2312,4 @@ select {
     justify-content: center;
     font-size: 15px;
   }
-
 }
